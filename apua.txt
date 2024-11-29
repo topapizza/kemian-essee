@@ -1,0 +1,9 @@
+tuotteen elinkaari
+raakaaineet
+raaka aineiden alkuperä
+mistä ja miten valmistettu
+miten ja missö tuotetta käytetään
+kuinka kauan tuotetta käytetään
+voiko tuotteen korjata 
+voidaanko tuotetta käyttää uudelleen tai kierrättää
+mikä on tuotteen lopullinen sijoituspaikka 

@@ -1,0 +1,72 @@
+body{
+    background-image:
+    linear-gradient(to right, #ff8ff2, #aaffa6);
+}
+a{
+    color: blue;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.loppu{
+    width: 50vw;
+}
+.elinkaari{
+    width: 50vw;
+}
+.kaytto{
+    width: 50vw;
+}
+.ymparisto{
+    width: 50vw;
+}
+.why{
+    width: 50vw;
+}
+.lahteet{
+    width: 75vw;
+}
+.kemiallisetilmiot{
+    width: 50vw;
+}   
+#firsth1{
+    font-size: 4rem;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 99px white;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    margin-top: 100px;
+}
+.btn{
+    background-color: rgb(255, 121, 172);
+    width: 100px;
+    height: 100px;
+    border-radius: 1000px ;
+}
+.btn :hover{
+    width: 100px;
+    height: 100px;
+    border-radius: 1000px ;
+}
+#madeby{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.image1{
+    max-width: 50vw;
+    max-height: 20vh;
+    border-radius: 16px;
+}
+.roskaa{
+    margin-top: 100px;
+    width: 50vw;
+    color: rgb(251, 249, 251);
+}
